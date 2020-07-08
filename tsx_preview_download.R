@@ -1,3 +1,5 @@
+library(sp)
+
 shp <- st_read("tsx_archive.shp")
 dest <- "d:/download_destination"
 
